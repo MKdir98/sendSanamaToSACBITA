@@ -1,0 +1,11 @@
+C:\Users\MAHDI\source\repos\Sanama\Sanama\obj\Debug\Sanama.csprojAssemblyReference.cache
+C:\Users\MAHDI\source\repos\Sanama\Sanama\obj\Debug\Sanama.csproj.ResolveComReference.cache
+C:\Users\MAHDI\source\repos\Sanama\Sanama\obj\Debug\Sanama.Form1.resources
+C:\Users\MAHDI\source\repos\Sanama\Sanama\obj\Debug\Sanama.Properties.Resources.resources
+C:\Users\MAHDI\source\repos\Sanama\Sanama\obj\Debug\Sanama.csproj.GenerateResource.cache
+C:\Users\MAHDI\source\repos\Sanama\Sanama\obj\Debug\Sanama.csproj.CoreCompileInputs.cache
+C:\Users\MAHDI\source\repos\Sanama\Sanama\bin\Debug\Sanama.exe.config
+C:\Users\MAHDI\source\repos\Sanama\Sanama\bin\Debug\Sanama.exe
+C:\Users\MAHDI\source\repos\Sanama\Sanama\bin\Debug\Sanama.pdb
+C:\Users\MAHDI\source\repos\Sanama\Sanama\obj\Debug\Sanama.exe
+C:\Users\MAHDI\source\repos\Sanama\Sanama\obj\Debug\Sanama.pdb
